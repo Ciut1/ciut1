@@ -1,5 +1,5 @@
-### Hi!
-A portfolio
+### Hi! Welcome to my GitHub profile
+My name is William hok. I am an Indonesian who currently residing in Northern Surburb of Melbourne.
 
 <!--
 **Ciut1/ciut1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
