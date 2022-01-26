@@ -1,8 +1,6 @@
-### Hi to myself in the future
+### Hi!
 A portfolio
 
-
-I hope to myself success and make your family in Indonesia proud
 <!--
 **Ciut1/ciut1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
